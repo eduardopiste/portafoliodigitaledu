@@ -66,7 +66,7 @@ header{
     transition: transform .3s ease-in-out;
     transform: translate(110%);
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
-    
+
 }
 
 .spread{
@@ -105,7 +105,7 @@ header{
 }
 
 .contenedor-servicio img{
-    width: 40%;   
+    width: 40%;
 }
 
 .checklist-servicio{
@@ -363,7 +363,7 @@ footer{
     .social-media{
         width: 100%;
     }
-    
+
     .contact-us{
         width: 90%;
     }
